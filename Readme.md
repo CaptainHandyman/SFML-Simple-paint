@@ -5,7 +5,7 @@
 
 ``` unzip 'SFML - Simple paint.zip' ```
 
-``` cd SFML - Simple paint.zip ```
+``` cd 'SFML - Simple paint' ```
 
 ``` make ```
 
