@@ -1,4 +1,4 @@
-# SFML- Simple paint example
+# SFML - Simple paint example
 ``` git clone https://github.com/MasterTatu/SFML-Simple-paint ```
 
 ``` cd SFML - Simple paint ```
