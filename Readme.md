@@ -3,7 +3,7 @@
 
 ``` cd SFML - Simple paint ```
 
-``` unzip 'SFML - Simple paint.zip' ```
+``` unzip 'SFML-Simple-paint.zip' ```
 
 ``` cd 'SFML - Simple paint' ```
 
